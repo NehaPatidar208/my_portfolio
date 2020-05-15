@@ -1,0 +1,204 @@
+body{
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #d4ebd0;
+	
+}
+.bar{position: relative;
+	height: 50px;
+	padding: 10px;
+	background-color:#162447;
+	color: white;
+}
+#start{
+	position: absolute;
+	margin: 0px;
+	left: 10px;
+	margin-top: 15px;
+	padding: auto; auto 10px 10px;
+}
+#home{
+	position: absolute;
+	right: 20px;
+	top: 5
+	padding: 5px;
+}
+#resumefirst{
+	
+	background-image: url("resume.jpg");
+	padding-top: 10%;
+	padding-bottom: 7%;
+
+}
+#resume{
+	color:white;
+}
+
+#information{
+	position: relative;
+	height: 70px;
+	background-color: #005082;
+	padding: 10px;
+	color: white;
+}
+.second{
+	width: 40%;
+	margin: auto;
+}
+
+#personalinfo{
+	width: 40%;
+	margin: 50px auto 50px auto;
+}
+.myimg{
+	border-radius: 100%;
+	float: left;
+	margin-right: 30px;
+	
+}
+
+h1{
+	margin: 5px;
+}
+p{
+	margin: 10px;
+}
+
+#education{
+	position: relative;
+	height: 70px;
+	background-color: #005082;
+	padding: 10px;
+	color: white;
+}
+.third{
+	width: 40%;
+	margin: auto;
+}
+#edutable{
+	padding: 2%;
+	font-size: 1em;
+	width: 40%;
+	margin: auto;
+}
+
+#skills{
+	position: relative;
+	height: 70px;
+	background-color: #005082;
+	padding: 10px;
+	color: white;
+}
+.fourth{
+	width: 40%;
+	margin: auto;
+}
+
+#skillinfo{
+	height: 450px;
+}
+#skilldetail{
+	width: 40%;
+	margin: auto;
+	padding-bottom: 10%;
+}
+
+
+
+#Certification{
+	position: relative;
+	height: 80px;
+	background-color: #005082;
+	padding: 10px;
+	color: white;
+}
+.fifth{
+	width: 40%;
+	margin: auto;
+}
+#certdata{
+	width: 40%;
+	margin: auto;
+	padding: 5px;
+}
+li{
+	margin: 7px auto;
+}
+
+#achievements{
+	position: relative;
+	height: 100px;
+	background-color: #005082;
+	padding: 10px;
+	color: white;
+}
+
+.sixth{
+	width: 40%;
+	margin: auto;
+}
+#award{
+	width: 50%;
+	margin: auto 0px auto 10em;
+}
+#winning{
+	height: 800px;
+	
+}
+#list1{
+	width: 40%;
+	margin: auto;
+}
+
+#curricular{
+	position: relative;
+	height: 70px;
+	background-color: #005082;
+	padding: 10px;
+	color: white;
+}
+.seventh{
+	width: 40%;
+	margin: auto;
+}
+#activity{
+	width: 40%;
+	margin:auto;
+}
+#end{
+	text-align: center;
+	width: 40%;
+	margin: auto;
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	width: 30%;
+	border-top-color: green;
+}
+
+.myButton {
+	box-shadow: 12px 19px 26px -3px #20096e;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:23px;
+	border:2px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:22px;
+	font-weight:bold;
+	padding:5px 32px;
+	text-decoration:none;
+	text-shadow:0px 4px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
