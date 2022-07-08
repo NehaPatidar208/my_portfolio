@@ -158,15 +158,18 @@ hr{
 }
 
 #hackerrank{
-	max-height: 5%;
-	max-width: 5%;
+	max-height: 9%;
+	max-width: 9%;
 }
 #hackerearth{
-	max-width: 8%;
-	max-height: 8%;
-	
+	max-height: 9%;
+	max-width: 9%;
 }
 #leetcode{
+	max-height: 9%;
+	max-width: 9%;
+}
+#github{
 	max-height: 9%;
 	max-width: 9%;
 }
