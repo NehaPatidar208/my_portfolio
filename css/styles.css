@@ -166,7 +166,10 @@ hr{
 	max-height: 5%;
 	
 }
-
+#leetcode{
+	max-height: 5%;
+	max-width: 5%;
+}
 
 .myButton {
 	box-shadow: 12px 19px 26px -3px #20096e;
